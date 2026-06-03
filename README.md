@@ -4,8 +4,11 @@
 Hello, this is the project that aims to find the predictive connections between AI trends and NVDA stock market return.
 
 Materials: 
+
 -Datasets: combined 3 different datasets (headlines,news) from 3 sources of Kaggle. 
+
 -Code 
+
 -Final project's ppt 
 
 For detailed information, look at ppt 
